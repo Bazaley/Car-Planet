@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Car-Planet/static/css/main.978d6b34.css",
+    "main.js": "/Car-Planet/static/js/main.eef5820a.js",
+    "static/media/gothampro_bold.ttf": "/Car-Planet/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_light.ttf": "/Car-Planet/static/media/gothampro_light.dfbba8c980f43420d2d1.ttf",
+    "static/media/gothampro_medium.ttf": "/Car-Planet/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/Car-Planet/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "static/media/gothampro_black.ttf": "/Car-Planet/static/media/gothampro_black.8c2f478dfa880e2de0a1.ttf",
+    "static/media/sprite.svg": "/Car-Planet/static/media/sprite.f5a1e52f2526a9ed7a1b3aa3561ae091.svg",
+    "index.html": "/Car-Planet/index.html",
+    "main.978d6b34.css.map": "/Car-Planet/static/css/main.978d6b34.css.map",
+    "main.eef5820a.js.map": "/Car-Planet/static/js/main.eef5820a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978d6b34.css",
+    "static/js/main.eef5820a.js"
+  ]
+}
