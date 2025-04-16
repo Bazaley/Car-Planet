@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://goitacademy.github.io/Car-Planet/",
   "dependencies": {
-    "@formkit/auto-animate": "^0.8.2",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
@@ -38,8 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "ajv": "^7.2.4"
   }
 }
