@@ -1,0 +1,71 @@
+@import-normalize;
+
+@font-face {
+  font-family: 'Gotham Pro', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('./fonts/gothampro.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''), url('./fonts/gothampro_light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''), url('./fonts/gothampro_medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('./fonts/gothampro_bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: local(''), url('./fonts/gothampro_black.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: 'Gotham Pro', sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}
